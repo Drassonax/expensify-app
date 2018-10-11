@@ -1,7 +1,2 @@
-# Git Commands
-
-git init - Create a new git repo
-git status - View the changes to your project code
-git add - Add files to staging area
-git commit - Creates a new commit with files from staging area
-git log - View recent commits
+Expensify app allows the users to keep track of their expenses. Users can add, edit and remove their expenses.
+The app uses Firebase database and authentication via Google.
